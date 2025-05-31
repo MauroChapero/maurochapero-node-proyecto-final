@@ -1,0 +1,21 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "backend",
+    "final",
+    "project"
+  ],
+  "author": "Mauro Chapero",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "proyecto-final": "file:"
+  }
+}
